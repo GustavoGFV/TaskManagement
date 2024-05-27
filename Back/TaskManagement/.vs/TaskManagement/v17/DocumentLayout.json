@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pichau\\source\\repos\\TaskManagement\\Back\\TaskManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C7EC40-DDC6-4B87-A05E-1E75AA34CA06}|TaskManagement.csproj|c:\\users\\pichau\\source\\repos\\taskmanagement\\back\\taskmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C7EC40-DDC6-4B87-A05E-1E75AA34CA06}|TaskManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C7EC40-DDC6-4B87-A05E-1E75AA34CA06}|TaskManagement.csproj|c:\\users\\pichau\\source\\repos\\taskmanagement\\back\\taskmanagement\\profiles\\taskprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C7EC40-DDC6-4B87-A05E-1E75AA34CA06}|TaskManagement.csproj|solutionrelative:profiles\\taskprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C7EC40-DDC6-4B87-A05E-1E75AA34CA06}|TaskManagement.csproj|c:\\users\\pichau\\source\\repos\\taskmanagement\\back\\taskmanagement\\profiles\\commentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C7EC40-DDC6-4B87-A05E-1E75AA34CA06}|TaskManagement.csproj|solutionrelative:profiles\\commentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C7EC40-DDC6-4B87-A05E-1E75AA34CA06}|TaskManagement.csproj|c:\\users\\pichau\\source\\repos\\taskmanagement\\back\\taskmanagement\\dbo\\model\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C7EC40-DDC6-4B87-A05E-1E75AA34CA06}|TaskManagement.csproj|solutionrelative:dbo\\model\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C7EC40-DDC6-4B87-A05E-1E75AA34CA06}|TaskManagement.csproj|c:\\users\\pichau\\source\\repos\\taskmanagement\\back\\taskmanagement\\dbo\\model\\commentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C7EC40-DDC6-4B87-A05E-1E75AA34CA06}|TaskManagement.csproj|solutionrelative:dbo\\model\\commentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C7EC40-DDC6-4B87-A05E-1E75AA34CA06}|TaskManagement.csproj|c:\\users\\pichau\\source\\repos\\taskmanagement\\back\\taskmanagement\\dbo\\dto\\task\\createtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C7EC40-DDC6-4B87-A05E-1E75AA34CA06}|TaskManagement.csproj|solutionrelative:dbo\\dto\\task\\createtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C7EC40-DDC6-4B87-A05E-1E75AA34CA06}|TaskManagement.csproj|c:\\users\\pichau\\source\\repos\\taskmanagement\\back\\taskmanagement\\dbo\\dto\\task\\readtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C7EC40-DDC6-4B87-A05E-1E75AA34CA06}|TaskManagement.csproj|solutionrelative:dbo\\dto\\task\\readtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C7EC40-DDC6-4B87-A05E-1E75AA34CA06}|TaskManagement.csproj|c:\\users\\pichau\\source\\repos\\taskmanagement\\back\\taskmanagement\\dbo\\dto\\task\\updatetaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C7EC40-DDC6-4B87-A05E-1E75AA34CA06}|TaskManagement.csproj|solutionrelative:dbo\\dto\\task\\updatetaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C7EC40-DDC6-4B87-A05E-1E75AA34CA06}|TaskManagement.csproj|c:\\users\\pichau\\source\\repos\\taskmanagement\\back\\taskmanagement\\dbo\\dto\\comment\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C7EC40-DDC6-4B87-A05E-1E75AA34CA06}|TaskManagement.csproj|solutionrelative:dbo\\dto\\comment\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C7EC40-DDC6-4B87-A05E-1E75AA34CA06}|TaskManagement.csproj|c:\\users\\pichau\\source\\repos\\taskmanagement\\back\\taskmanagement\\dbo\\dto\\comment\\readcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C7EC40-DDC6-4B87-A05E-1E75AA34CA06}|TaskManagement.csproj|solutionrelative:dbo\\dto\\comment\\readcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C7EC40-DDC6-4B87-A05E-1E75AA34CA06}|TaskManagement.csproj|c:\\users\\pichau\\source\\repos\\taskmanagement\\back\\taskmanagement\\dbo\\dto\\comment\\updatecommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C7EC40-DDC6-4B87-A05E-1E75AA34CA06}|TaskManagement.csproj|solutionrelative:dbo\\dto\\comment\\updatecommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C7EC40-DDC6-4B87-A05E-1E75AA34CA06}|TaskManagement.csproj|c:\\users\\pichau\\source\\repos\\taskmanagement\\back\\taskmanagement\\dbo\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C7EC40-DDC6-4B87-A05E-1E75AA34CA06}|TaskManagement.csproj|solutionrelative:dbo\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C7EC40-DDC6-4B87-A05E-1E75AA34CA06}|TaskManagement.csproj|c:\\users\\pichau\\source\\repos\\taskmanagement\\back\\taskmanagement\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C7EC40-DDC6-4B87-A05E-1E75AA34CA06}|TaskManagement.csproj|solutionrelative:controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C7EC40-DDC6-4B87-A05E-1E75AA34CA06}|TaskManagement.csproj|c:\\users\\pichau\\source\\repos\\taskmanagement\\back\\taskmanagement\\controllers\\gettaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C7EC40-DDC6-4B87-A05E-1E75AA34CA06}|TaskManagement.csproj|solutionrelative:controllers\\gettaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C7EC40-DDC6-4B87-A05E-1E75AA34CA06}|TaskManagement.csproj|c:\\users\\pichau\\source\\repos\\taskmanagement\\back\\taskmanagement\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C7EC40-DDC6-4B87-A05E-1E75AA34CA06}|TaskManagement.csproj|solutionrelative:controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\TaskManagement\\Back\\TaskManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\TaskManagement\\Back\\TaskManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:19:09.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommentProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\TaskManagement\\Back\\TaskManagement\\Profiles\\CommentProfile.cs",
+              "RelativeDocumentMoniker": "Profiles\\CommentProfile.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\TaskManagement\\Back\\TaskManagement\\Profiles\\CommentProfile.cs",
+              "RelativeToolTip": "Profiles\\CommentProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:15:40.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\TaskManagement\\Back\\TaskManagement\\Profiles\\TaskProfile.cs",
+              "RelativeDocumentMoniker": "Profiles\\TaskProfile.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\TaskManagement\\Back\\TaskManagement\\Profiles\\TaskProfile.cs",
+              "RelativeToolTip": "Profiles\\TaskProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:15:28.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReadTaskDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\TaskManagement\\Back\\TaskManagement\\Dbo\\Dto\\Task\\ReadTaskDto.cs",
+              "RelativeDocumentMoniker": "Dbo\\Dto\\Task\\ReadTaskDto.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\TaskManagement\\Back\\TaskManagement\\Dbo\\Dto\\Task\\ReadTaskDto.cs",
+              "RelativeToolTip": "Dbo\\Dto\\Task\\ReadTaskDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T04:59:50.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateTaskDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\TaskManagement\\Back\\TaskManagement\\Dbo\\Dto\\Task\\CreateTaskDto.cs",
+              "RelativeDocumentMoniker": "Dbo\\Dto\\Task\\CreateTaskDto.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\TaskManagement\\Back\\TaskManagement\\Dbo\\Dto\\Task\\CreateTaskDto.cs",
+              "RelativeToolTip": "Dbo\\Dto\\Task\\CreateTaskDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T04:54:54.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommentModel.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\TaskManagement\\Back\\TaskManagement\\Dbo\\Model\\CommentModel.cs",
+              "RelativeDocumentMoniker": "Dbo\\Model\\CommentModel.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\TaskManagement\\Back\\TaskManagement\\Dbo\\Model\\CommentModel.cs",
+              "RelativeToolTip": "Dbo\\Model\\CommentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T16:18:36.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskModel.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\TaskManagement\\Back\\TaskManagement\\Dbo\\Model\\TaskModel.cs",
+              "RelativeDocumentMoniker": "Dbo\\Model\\TaskModel.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\TaskManagement\\Back\\TaskManagement\\Dbo\\Model\\TaskModel.cs",
+              "RelativeToolTip": "Dbo\\Model\\TaskModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T16:18:17.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateTaskDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\TaskManagement\\Back\\TaskManagement\\Dbo\\Dto\\Task\\UpdateTaskDto.cs",
+              "RelativeDocumentMoniker": "Dbo\\Dto\\Task\\UpdateTaskDto.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\TaskManagement\\Back\\TaskManagement\\Dbo\\Dto\\Task\\UpdateTaskDto.cs",
+              "RelativeToolTip": "Dbo\\Dto\\Task\\UpdateTaskDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:01:31.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateCommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\TaskManagement\\Back\\TaskManagement\\Dbo\\Dto\\Comment\\CreateCommentDto.cs",
+              "RelativeDocumentMoniker": "Dbo\\Dto\\Comment\\CreateCommentDto.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\TaskManagement\\Back\\TaskManagement\\Dbo\\Dto\\Comment\\CreateCommentDto.cs",
+              "RelativeToolTip": "Dbo\\Dto\\Comment\\CreateCommentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:03:42.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReadCommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\TaskManagement\\Back\\TaskManagement\\Dbo\\Dto\\Comment\\ReadCommentDto.cs",
+              "RelativeDocumentMoniker": "Dbo\\Dto\\Comment\\ReadCommentDto.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\TaskManagement\\Back\\TaskManagement\\Dbo\\Dto\\Comment\\ReadCommentDto.cs",
+              "RelativeToolTip": "Dbo\\Dto\\Comment\\ReadCommentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:03:37.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateCommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\TaskManagement\\Back\\TaskManagement\\Dbo\\Dto\\Comment\\UpdateCommentDto.cs",
+              "RelativeDocumentMoniker": "Dbo\\Dto\\Comment\\UpdateCommentDto.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\TaskManagement\\Back\\TaskManagement\\Dbo\\Dto\\Comment\\UpdateCommentDto.cs",
+              "RelativeToolTip": "Dbo\\Dto\\Comment\\UpdateCommentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:03:22.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\TaskManagement\\Back\\TaskManagement\\Dbo\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Dbo\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\TaskManagement\\Back\\TaskManagement\\Dbo\\AppDbContext.cs",
+              "RelativeToolTip": "Dbo\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T16:17:56.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\TaskManagement\\Back\\TaskManagement\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CommentController.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\TaskManagement\\Back\\TaskManagement\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "Controllers\\CommentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T16:07:01.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\TaskManagement\\Back\\TaskManagement\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\TaskManagement\\Back\\TaskManagement\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Controllers\\TaskController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T16:02:11.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetTaskController.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\TaskManagement\\Back\\TaskManagement\\Controllers\\GetTaskController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GetTaskController.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\TaskManagement\\Back\\TaskManagement\\Controllers\\GetTaskController.cs",
+              "RelativeToolTip": "Controllers\\GetTaskController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T03:06:02.352Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
